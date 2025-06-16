@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Driving License Back"
+    },
+    {
+      "id": 1,
+      "name": "Driving License Front"
+    },
+    {
+      "id": 2,
+      "name": "OLD_NID_BACK"
+    },
+    {
+      "id": 3,
+      "name": "OLD_NID_FRONT"
+    },
+    {
+      "id": 4,
+      "name": "SMART_NID_BACK"
+    },
+    {
+      "id": 5,
+      "name": "SMART_NID_FRONT"
+    },
+    {
+      "id": 6,
+      "name": "Vehicle Registration Card Back"
+    },
+    {
+      "id": 7,
+      "name": "Vehicle Registration Card Front"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

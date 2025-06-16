@@ -1,0 +1,6 @@
+artifact_location: file:E:/card_detection/runs/mlflow/704348579596080247
+creation_time: 1749029797325
+experiment_id: '704348579596080247'
+last_update_time: 1749029797325
+lifecycle_stage: active
+name: yolov8n_seg_twostage_card_detection

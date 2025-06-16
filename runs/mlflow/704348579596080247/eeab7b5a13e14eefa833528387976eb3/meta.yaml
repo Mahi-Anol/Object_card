@@ -1,0 +1,15 @@
+artifact_uri: file:E:/card_detection/runs/mlflow/704348579596080247/eeab7b5a13e14eefa833528387976eb3/artifacts
+end_time: 1749035989471
+entry_point_name: ''
+experiment_id: '704348579596080247'
+lifecycle_stage: active
+run_id: eeab7b5a13e14eefa833528387976eb3
+run_name: twostage_run_stage1
+run_uuid: eeab7b5a13e14eefa833528387976eb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749029799343
+status: 3
+tags: []
+user_id: Admin

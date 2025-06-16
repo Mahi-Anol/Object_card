@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Address"
+    },
+    {
+      "id": 1,
+      "name": "Birth Date"
+    },
+    {
+      "id": 2,
+      "name": "Blood Group"
+    },
+    {
+      "id": 3,
+      "name": "Class(es) of vehicle authorized to drive"
+    },
+    {
+      "id": 4,
+      "name": "Father\/Husband"
+    },
+    {
+      "id": 5,
+      "name": "First Issue"
+    },
+    {
+      "id": 6,
+      "name": "Image"
+    },
+    {
+      "id": 7,
+      "name": "Issue\/Renewal Date"
+    },
+    {
+      "id": 8,
+      "name": "Issuing Authority"
+    },
+    {
+      "id": 9,
+      "name": "Licence No."
+    },
+    {
+      "id": 10,
+      "name": "Licence No. Back"
+    },
+    {
+      "id": 11,
+      "name": "License Type"
+    },
+    {
+      "id": 12,
+      "name": "Name"
+    },
+    {
+      "id": 13,
+      "name": "Ref No"
+    },
+    {
+      "id": 14,
+      "name": "Validity"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

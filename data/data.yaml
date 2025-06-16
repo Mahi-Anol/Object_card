@@ -1,0 +1,28 @@
+path: D:/card_detection_proj_tashfiq/data
+train: images/train
+val: images/val
+test: images/test
+nc: 8
+names: [
+  "Driving License Back",
+  "Driving License Front",
+  "OLD_NID_BACK",
+  "OLD_NID_FRONT",
+  "SMART_NID_BACK",
+  "SMART_NID_FRONT",
+  "Vehicle Registration Card Back",
+  "Vehicle Registration Card Front"
+]
+task: seg
+hsv_h: 0.0  # hue
+hsv_s: 0.0  # saturation
+hsv_v: 0.0  # value
+degrees: 0.0  # rotation
+translate: 0.0  # translate
+scale: 0.0  # scale
+shear: 0.0  # shear
+perspective: 0.0  # perspective
+flipud: 0.0  # flip up-down
+fliplr: 0.0  # flip left-right
+mosaic: False  # mosaic
+mixup: False  # mixup
