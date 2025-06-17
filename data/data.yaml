@@ -1,4 +1,4 @@
-path: D:/card_detection_proj_tashfiq/data
+path: E:/Object_card/data
 train: images/train
 val: images/val
 test: images/test

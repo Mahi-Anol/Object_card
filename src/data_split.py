@@ -9,7 +9,7 @@ def parse_arguments():
     """
     Parse command line arguemnts for directories and split sizes.
     """
-    #python src/data_split.py --image-dir D:\card_detection_proj_tashfiq\labeled_data\images --label-dir D:\card_detection_proj_tashfiq\labeled_data\labels --base-path D:\card_detection_proj_tashfiq
+    #python src/data_split.py --image-dir E:\Object_card\labeled_data\images --label-dir E:\Object_card\labeled_data\labels --base-path E:\Object_card
     parser = argparse.ArgumentParser(description="Split image and labels into train/val/test directories")
     parser.add_argument('--image-dir', type=str, required=True, help="Path to the directory containing images")
     parser.add_argument('--label-dir', type=str, required=True, help="Path to the directory containing labels")

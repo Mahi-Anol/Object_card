@@ -14,7 +14,9 @@ os.environ["WANDB_MODE"] = "disabled"
 def parse_arguments():
 
     '''args'''
-    #python src/train_tl.py --model D:\card_detection_proj_tashfiq\model\yolov8n-seg --data D:\card_detection_proj_tashfiq\data\data.yaml
+    ### E:\Object_card>python src/train_tl.py --model D:\card_detection_proj_tashfiq\model\yolov8n-seg --data D:\card_detection_proj_tashfiq\data\data.yaml --epoch_stage1 2 --epoch_stage2 2
+
+    #python src/train_tl.py --model E:/Object_card/model/yolov8n-seg --data E:/Object_card/data/data.yaml --epochs_stage1 2 --epochs_stage2 2
     parser = argparse.ArgumentParser(
         description="Card Detection Two-stage YOLOv8n-seg training."
     )

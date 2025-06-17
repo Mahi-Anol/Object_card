@@ -1,8 +1,8 @@
 task: segment
 mode: train
-model: D:\card_detection_proj_tashfiq\model\yolov8n-seg.pt
-data: D:\card_detection_proj_tashfiq\data\data.yaml
-epochs: 100
+model: E:/Object_card/model/yolov8n-seg.pt
+data: E:\Object_card\data\data.yaml
+epochs: 150
 time: null
 patience: 0
 batch: 16
